@@ -22,7 +22,9 @@ The goal of this lab assignment is to introduce you to these data types and how 
 1. Complete the work in the notebook here (5_5_3_Tuples,_Lists_and_Dictionaries.ipynb) using the CoLab interface.
 2. Using GIT, add the repo to your raspberry pi.
 3. Using NANO and the terminal in your pi, create a new text file called "observations.txt" and write what you learned in this lab.
-4. Commit and Push the code to your repo so that I will be able to read your new text file from GitHub.
+4. Using NANO and the terminal in your pi, create a new script called "data_manipulation.py" which does the following:
+  - 
+6. Add, commit and push your local branch to the main repo on GitHub.
 
 ## 📚  Resources 
 [Think Python Textbook](https://greenteapress.com/wp/think-python-2e/)
