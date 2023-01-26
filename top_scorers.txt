@@ -46,5 +46,5 @@
  'West Bromwich Albion': 'Peter Odemwingie(30)',
  'West Ham United': 'Michail Antonio(58)',
  'Wigan Athletic': 'Hugo Rodallega(24)',
- 'Wimbledon[b]': 'Dean Holdsworth(58)',
+ 'Wimbledon': 'Dean Holdsworth(58)',
  'Wolverhampton Wanderers': 'Raúl Jiménez(40)'
