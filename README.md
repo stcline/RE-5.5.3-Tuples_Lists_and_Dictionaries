@@ -20,7 +20,7 @@ The goal of this lab assignment is to introduce you to these data types and how 
 
 ## 📝 Next steps
 1. Complete the work in the notebook here (5_5_3_Tuples,_Lists_and_Dictionaries.ipynb) using the CoLab interface.
-2. Using GIT, add the repo to your raspberry pi.
+2. Using GIT, clone the repo to your raspberry pi.
 3. Using NANO and the terminal in your pi, create a new text file called "observations.txt" and write what you learned in this lab.
 4. Using NANO and the terminal in your pi, create a three new scripts (name them whatever you like) which do the following (You will use the file "clubs.txt" for a data source for the first two scripts and the file "top_scorers.txt" for the third):
     - (Using the "clubs.txt" file) Create a ***tuple*** variable called "clubs" which contains the names of all of the clubs in the file and prints the length (number of teams) of the tuple automatically with the message "There are __ clubs currently in English Premier League soccer. (Use a method with the tuple which actually measures the length of the variable)
