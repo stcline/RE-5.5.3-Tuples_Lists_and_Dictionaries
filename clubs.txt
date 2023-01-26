@@ -1,4 +1,4 @@
-['Arsenal',
+'Arsenal',
  'Aston Villa',
  'Barnsley',
  'Birmingham City',
@@ -47,4 +47,4 @@
  'West Ham United',
  'Wigan Athletic',
  'Wimbledon[b]',
- 'Wolverhampton Wanderers']
+ 'Wolverhampton Wanderers'
