@@ -24,7 +24,7 @@ The goal of this lab assignment is to introduce you to these data types and how 
 3. Using NANO and the terminal in your pi, create a new text file called "observations.txt" and write what you learned in this lab.
 4. Using NANO and the terminal in your pi, create three new scripts (name them whatever you like) which do the following (You will use the file "clubs.txt" for a data source for the first two scripts and the file "top_scorers.txt" for the third):
     - (Using the "clubs.txt" file) Create a ***tuple*** variable called "clubs" which contains the names of all of the clubs in the file and prints the length (number of teams) of the tuple automatically with the message "There are __ clubs currently in English Premier League soccer. (Use a method with the tuple which actually measures the length of the variable)
-    - (Using the "clubs.txt" file) Create a ***list*** variable called "eng_clubs" which contains the names of the teams in the file and allows the user of the script to add a new team to the list if they choose (use the `.append()` method along with the `input()` function).
+    - (Using the "clubs.txt" file) Create a ***list*** variable called "eng_clubs" which contains the names of the teams in the file and allows the user of the script to add a new team to the list and then prints the entire list of teams (use the `.append()` method along with the `input()` function).
     - (Using the "top_scorers.txt" file) Create a ***dictionary*** using the data contained in the file with the club column of the file as the keys and the top_scorer as the values. This script should allow the user to enter a team by number (place in the dictionary) and return the top scorer.  
 6. Add, commit and push your local branch to the main repo on GitHub.
 
