@@ -22,9 +22,9 @@ The goal of this lab assignment is to introduce you to these data types and how 
 1. Complete the work in the notebook here (5_5_3_Tuples,_Lists_and_Dictionaries.ipynb) using the CoLab interface.
 2. Using GIT, add the repo to your raspberry pi.
 3. Using NANO and the terminal in your pi, create a new text file called "observations.txt" and write what you learned in this lab.
-4. Using NANO and the terminal in your pi, create a three new scripts (name them whatever you like) which do the following (You will use the file "english_premier_clubs.csv" for a data source for all of these scripts):
-    - Create a tuple variable called "teams" which contains the names of all of the clubs in the file and prints the length (number of teams) of the tuple automatically.
-    - Create a list variable called "eng_teams" which contains the names of the teams in the file and allows the user of the script to add a new team to the list if they choose (use the `.append()` method along with the `input()` function).
+4. Using NANO and the terminal in your pi, create a three new scripts (name them whatever you like) which do the following (You will use the file "clubs.txt" for a data source for the first two scripts and the file "top_scorers.txt" for the third):
+    - Create a ***tuple*** variable called "clubs" which contains the names of all of the clubs in the file and prints the length (number of teams) of the tuple automatically.
+    - Create a ***list*** variable called "eng_clubs" which contains the names of the teams in the file and allows the user of the script to add a new team to the list if they choose (use the `.append()` method along with the `input()` function).
     - Create a dictionary using the data contained in the file with the header row of the file as the keys and the other data as the values. This script should allow the user to print enter a team by number (place in the dictionary) and a key 
 6. Add, commit and push your local branch to the main repo on GitHub.
 
